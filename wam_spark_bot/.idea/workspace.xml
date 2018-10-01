@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ba6d21d-1f21-40b7-8db5-a7508c4a9b81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybot-service-key.json" beforeDir="false" afterPath="$PROJECT_DIR$/mybot-service-key.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/lib/ber/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/lib/ber/errors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/lib/ber/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/lib/ber/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/lib/ber/reader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/lib/ber/reader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/lib/ber/writer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/lib/ber/writer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/tst/ber/reader.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/tst/ber/writer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aws4/aws4.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/aws4/aws4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aws4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/aws4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/botkit-middleware-dialogflow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/botkit-middleware-dialogflow/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/lib/LICENSE-jsbn" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/lib/LICENSE-jsbn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/lib/ec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/lib/ec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/lib/sec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/lib/sec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/binding.gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/binding.gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/grpc.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/grpc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/grpc_security.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/grpc_security.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/impl/codegen/grpc_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/impl/codegen/grpc_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/support/log.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/support/log.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/support/string_util.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/include/grpc/support/string_util.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/boringssl/crypto_test_data.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/boringssl/crypto_test_data.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/boringssl/err_data.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/boringssl/err_data.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/census/grpc_context.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel_plugin.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel_plugin.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/http_proxy.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/http_proxy.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/grpclb.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/grpclb.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/pick_first/pick_first.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/pick_first/pick_first.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/round_robin/round_robin.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/round_robin/round_robin.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/dns_resolver_ares.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/dns_resolver_ares.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper_fallback.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper_fallback.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/http/client/http_client_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/http/client/http_client_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/http/server/http_server_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/http/server/http_server_filter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_plugin.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/client/insecure/channel_create_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/client/insecure/channel_create_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/server/insecure/server_chttp2_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/server/insecure/server_chttp2_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/chttp2_transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/chttp2_transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/hpack_parser.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/hpack_parser.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/writing.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/writing.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/cronet/transport/cronet_transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/cronet/transport/cronet_transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/inproc/inproc_transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/ext/transport/inproc/inproc_transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_stack.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_stack.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/connected_channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/channel/connected_channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gpr/arena.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gpr/arena.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/abstract.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/abstract.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/inlined_vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/inlined_vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/memory.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/memory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/ref_counted_ptr.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/ref_counted_ptr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/thd_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/gprpp/thd_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/call_combiner.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/call_combiner.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/closure.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/closure.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/endpoint_pair_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/endpoint_pair_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epoll1_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epoll1_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollex_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollex_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollsig_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollsig_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_poll_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_poll_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/is_epollexclusive_available.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/is_epollexclusive_available.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_common_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_common_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_uv.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_uv.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_windows.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_windows.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_client_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_client_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/timer_manager.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/timer_manager.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/udp_server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/iomgr/udp_server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/json/json.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/json/json.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/json/json.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/json/json.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/google_default/google_default_credentials.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/google_default/google_default_credentials.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/ssl/ssl_credentials.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/ssl/ssl_credentials.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/transport/client_auth_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/transport/client_auth_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/transport/server_auth_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/security/transport/server_auth_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/call.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/call.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/call.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/call.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/version.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/surface/version.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/transport/transport_op_string.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/lib/transport/transport_op_string.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_cronet_plugin_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_cronet_plugin_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_plugin_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_plugin_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_unsecure_plugin_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_unsecure_plugin_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_handshaker_service_api_util.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_handshaker_service_api_util.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_tsi_handshaker.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_tsi_handshaker.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/ssl_transport_security.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/src/core/tsi/ssl_transport_security.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/asn1_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/asn1_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/tasn_dec.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/tasn_dec.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/bytestring/cbs.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/bytestring/cbs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/aead_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/aead_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/e_aesccm.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/e_aesccm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/constant_time_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/constant_time_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ec_extra/ec_asn1.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ec_extra/ec_asn1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ecdh/ecdh.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ecdh/ecdh.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/add.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/add.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/cmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/cmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/div.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/div.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/gcd.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/gcd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery_inv.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery_inv.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/mul.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/mul.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/prime.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/prime.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/random.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/random.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/shift.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/shift.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/sqrt.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/sqrt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_key.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_key.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/oct.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/oct.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p224-64.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p224-64.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p256-x86_64-table.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p256-x86_64-table.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/simple.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/simple.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ecdsa/ecdsa.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ecdsa/ecdsa.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/blinding.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/blinding.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa_impl.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa_impl.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/rsa_extra/rsa_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/rsa_extra/rsa_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/vpm_int.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/vpm_int.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vfy.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vfy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vpm.c" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vpm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/aead.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/aead.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/asn1.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/asn1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bn.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bn.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bytestring.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bytestring.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec_key.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec_key.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/rsa.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/rsa.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl3.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509v3.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509v3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/handshake_client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/handshake_client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_cipher.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_cipher.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_lib.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_lib.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/ext/call.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/ext/call.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/ext/call.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/ext/call.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/ext/channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/ext/channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/ext/channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/ext/channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/ext/channel_credentials.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/ext/channel_credentials.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/ext/slice.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/ext/slice.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/lib/cookies.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/lib/cookies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/lib/needle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/lib/needle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/test/errors_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/test/errors_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/test/url_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/needle/test/url_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/lib/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/lib/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/node-pre-gyp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/npm-packlist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/npm-packlist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/lib/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/lib/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/lib/unpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/lib/unpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/node_modules/tar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/src/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/src/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/src/client_interceptors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/src/client_interceptors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/src/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/src/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/src/credentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/src/credentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/grpc/src/node/extension_binary/node-v57-darwin-x64-unknown/grpc_node.node" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/grpc/src/node/extension_binary/node-v57-darwin-x64-unknown/grpc_node.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/har-validator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/har-validator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/oauth-sign/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/oauth-sign/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/oauth-sign/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/oauth-sign/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/oauth-sign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/oauth-sign/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/lib/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/lib/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/lib/cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/lib/cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/lib/memstore.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/lib/memstore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/lib/permuteDomain.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/lib/permuteDomain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/lib/pubsuffix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-564995136">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="js" value="2" />
+          <entry key="json" value="3" />
+          <entry key="md" value="2" />
+          <entry key="rtf" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="955520099">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="env" value="2" />
+          <entry key="js" value="2" />
+          <entry key="json" value="5" />
+          <entry key="md" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="1" />
+          <entry key="Dockerfile" value="1" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="273" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="273" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5520">
+              <caret line="368" selection-start-line="368" selection-end-line="368" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/protobufjs/src/converter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>controller.hears</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mybot-service-key.json" />
+        <option value="$PROJECT_DIR$/skills/setup.env.js" />
+        <option value="$PROJECT_DIR$/.env.rtf" />
+        <option value="$PROJECT_DIR$/bot.js" />
+        <option value="$PROJECT_DIR$/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wam_spark_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wam_spark_bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ba6d21d-1f21-40b7-8db5-a7508c4a9b81" name="Default Changelist" comment="" />
+      <created>1534265579089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534265579089</updated>
+      <workItem from="1534265580386" duration="2343000" />
+      <workItem from="1534430000402" duration="278000" />
+      <workItem from="1534430286466" duration="1302000" />
+      <workItem from="1534432176333" duration="480000" />
+      <workItem from="1534959086597" duration="5570000" />
+      <workItem from="1537132892983" duration="343000" />
+      <workItem from="1537725953026" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10317000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15715292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32920355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15587151" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/skills/setup.env.js" />
+    <entry file="file://$PROJECT_DIR$/.env.rtf" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glitch_readme.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybot-service-key.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5520">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protobufjs/src/converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
