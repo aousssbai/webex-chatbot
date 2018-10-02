@@ -3,11 +3,11 @@
 There are multiple parts that need to be run concurrently in this system:
 
 1) an AWS instance
-2) a load generator
-3) a pipe script that will connect via ssh to the VM
-4) a monitoring script that will be run through the ssh tunnel on the VM
-5) the API that will receive the alerts from the monitoring script and transfer them to webex teams
-6) the bot script that defines its conversational logic
+2) a [load generator](client/venv/connection.py)
+3) a [pipe script](client/venv/pipe.py) that will connect via ssh to the VM
+4) a [monitoring script](client/venv/sniffer.py) that will be run through the ssh tunnel on the VM
+5) the [API](API/api.py) that will receive the alerts from the monitoring script and transfer them to webex teams
+6) the [bot script](wam_spark_bot/bot.js) that defines its conversational logic
 
 Firstly, you need to connect to the aws instance unsing these credentials: 
 ```
