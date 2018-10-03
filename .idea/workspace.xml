@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5396e99d-b987-4e11-84bf-f5107a054c44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client/venv/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/venv/connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/venv/sniffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/venv/sniffer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wam_spark_bot/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/bot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wam_spark_bot/mybot-service-key.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/mybot-service-key.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/.npmignore" beforeDir="false" />
@@ -350,7 +348,7 @@
         <entry file="file://$PROJECT_DIR$/client/venv/connection.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -1251,13 +1249,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="768" y="-1200" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.11767838" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.11767838" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.16814159" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.16814159" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" />
@@ -1323,7 +1320,7 @@
     <entry file="file://$PROJECT_DIR$/client/venv/connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
