@@ -1,6 +1,3 @@
-from random import randint
-import time
-from threading import *
 import os
 
 

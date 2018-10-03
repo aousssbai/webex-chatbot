@@ -1,11 +1,4 @@
-
-from random import randint
-import time
-from threading import *
-import os
 import psutil
-import requests
-import json
 import os
 import time
 
