@@ -60,7 +60,10 @@ This link needs to be input in the [monitoring script](client/venv/sniffer.py)
 
 NB: In the [API](API/api.py) is specified, for each threshold, the bearer token (which specifies the webex sender) and the roomID (which specifies the destination of the message). So if you want to test the system on your webex teams, you can get those tokens with the webex API directly. 
 
-At this point, the system will monitor the traffic from the VM and send alert messages in the rooms specified in the API. However, the bot logic is not connected yet. To do so, once again, we will use an Ngrok link on port 4001. This will expose the localhost port on which the bot script is running. 
+At this point, the system will monitor the traffic from the VM and send alert messages in the rooms specified in the API. However, the bot logic is not connected yet. To do so, once again, we will use an Ngrok link on port 4001. This will expose the localhost port on which the bot script is running. However this time, we need to enter the ngrok link in the [environment file](wam_spark_bot/.env) of the bot :
+
+
+
 
 
 
