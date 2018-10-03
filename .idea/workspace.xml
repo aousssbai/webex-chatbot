@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5396e99d-b987-4e11-84bf-f5107a054c44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/API/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/API/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/venv/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/venv/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/venv/pipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/venv/pipe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/venv/sniffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/venv/sniffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/bot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/mybot-service-key.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/mybot-service-key.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/errors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/reader.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/reader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/writer.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/ber/writer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/tst/ber/reader.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/tst/ber/writer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/aws4/aws4.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/aws4/aws4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/aws4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/aws4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-middleware-dialogflow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-middleware-dialogflow/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/lib/LICENSE-jsbn" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/lib/LICENSE-jsbn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/lib/ec.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/lib/ec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/lib/sec.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/lib/sec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/binding.gyp" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/binding.gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/grpc.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/grpc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/grpc_security.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/grpc_security.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/impl/codegen/grpc_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/impl/codegen/grpc_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/support/log.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/support/log.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/support/string_util.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/include/grpc/support/string_util.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/boringssl/crypto_test_data.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/boringssl/crypto_test_data.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/boringssl/err_data.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/boringssl/err_data.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/census/grpc_context.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel_plugin.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/client_channel_plugin.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/http_proxy.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/http_proxy.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/grpclb.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/grpclb.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/load_balancer_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/pick_first/pick_first.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/pick_first/pick_first.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/round_robin/round_robin.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy/round_robin/round_robin.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/lb_policy_factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/dns_resolver_ares.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/dns_resolver_ares.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_ev_driver_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper_fallback.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/resolver/dns/c_ares/grpc_ares_wrapper_fallback.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/deadline/deadline_filter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/http/client/http_client_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/http/client/http_client_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/http/server/http_server_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/http/server/http_server_filter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_filter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_plugin.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/filters/load_reporting/server_load_reporting_plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/client/insecure/channel_create_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/client/insecure/channel_create_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/server/insecure/server_chttp2_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/server/insecure/server_chttp2_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/chttp2_transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/chttp2_transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/hpack_parser.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/hpack_parser.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/writing.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/chttp2/transport/writing.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/cronet/transport/cronet_transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/cronet/transport/cronet_transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/inproc/inproc_transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/ext/transport/inproc/inproc_transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_stack.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_stack.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channel_trace.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/channelz_registry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/connected_channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/channel/connected_channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gpr/arena.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gpr/arena.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gpr/string.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/abstract.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/abstract.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/inlined_vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/inlined_vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/memory.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/memory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/ref_counted_ptr.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/ref_counted_ptr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/thd_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/gprpp/thd_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/call_combiner.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/call_combiner.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/closure.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/closure.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/endpoint_pair_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/endpoint_pair_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/error.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epoll1_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epoll1_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollex_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollex_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollsig_linux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_epollsig_linux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_poll_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_poll_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/ev_posix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/executor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/iomgr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/is_epollexclusive_available.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/is_epollexclusive_available.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_common_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_common_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_uv.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_uv.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_windows.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/socket_utils_windows.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_client_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_client_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_posix.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_posix.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/timer_manager.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/timer_manager.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/udp_server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/iomgr/udp_server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/json/json.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/json/json.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/json/json.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/json/json.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/context/security_context.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/google_default/google_default_credentials.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/google_default/google_default_credentials.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/ssl/ssl_credentials.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/credentials/ssl/ssl_credentials.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/security_connector/security_connector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/transport/client_auth_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/transport/client_auth_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/transport/server_auth_filter.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/security/transport/server_auth_filter.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/call.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/call.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/call.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/call.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/version.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/surface/version.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/transport/transport.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/transport/transport_op_string.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/lib/transport/transport_op_string.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_cronet_plugin_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_cronet_plugin_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_plugin_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_plugin_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_unsecure_plugin_registry.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/plugin_registry/grpc_unsecure_plugin_registry.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_handshaker_service_api_util.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_handshaker_service_api_util.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_tsi_handshaker.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/alts_tsi_handshaker.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/altscontext.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/handshaker.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common.pb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/handshaker/transport_security_common_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_grpc_integrity_only_record_protocol.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/ssl_transport_security.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/src/core/tsi/ssl_transport_security.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/asn1_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/asn1_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/tasn_dec.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/asn1/tasn_dec.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/bytestring/cbs.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/bytestring/cbs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/aead_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/aead_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/e_aesccm.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/cipher_extra/e_aesccm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/constant_time_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/constant_time_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ec_extra/ec_asn1.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ec_extra/ec_asn1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ecdh/ecdh.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/ecdh/ecdh.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/add.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/add.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/bn_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/cmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/cmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/div.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/div.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/gcd.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/gcd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery_inv.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/montgomery_inv.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/mul.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/mul.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/prime.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/prime.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/random.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/random.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/shift.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/shift.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/sqrt.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/bn/sqrt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_key.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_key.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/ec_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/oct.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/oct.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p224-64.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p224-64.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p256-x86_64-table.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/p256-x86_64-table.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/simple.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ec/simple.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ecdsa/ecdsa.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/ecdsa/ecdsa.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/blinding.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/blinding.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa_impl.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/fipsmodule/rsa/rsa_impl.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/rsa_extra/rsa_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/rsa_extra/rsa_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/vpm_int.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/vpm_int.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vfy.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vfy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vpm.c" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/crypto/x509/x509_vpm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/aead.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/aead.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/asn1.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/asn1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bn.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bn.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bytestring.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/bytestring.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec_key.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ec_key.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/rsa.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/rsa.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl3.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/ssl3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509v3.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/include/openssl/x509v3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/handshake_client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/handshake_client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_cipher.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_cipher.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_lib.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/deps/grpc/third_party/boringssl/ssl/ssl_lib.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/call.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/call.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/call.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/call.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/channel_credentials.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/channel_credentials.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/slice.cc" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/ext/slice.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/lib/cookies.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/lib/cookies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/lib/needle.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/lib/needle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/test/errors_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/test/errors_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/test/url_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/test/url_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/lib/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/lib/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/npm-packlist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/npm-packlist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/lib/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/lib/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/lib/unpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/lib/unpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/client_interceptors.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/client_interceptors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/credentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/credentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/node/extension_binary/node-v57-darwin-x64-unknown/grpc_node.node" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/src/node/extension_binary/node-v57-darwin-x64-unknown/grpc_node.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/har-validator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/har-validator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/lib/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/lib/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/lib/multipart.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/lib/multipart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/lib/oauth.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/lib/oauth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/request/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/memstore.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/memstore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/permuteDomain.js" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/permuteDomain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/lib/pubsuffix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wam_spark_bot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wam_spark_bot/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1308288883">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1867">
+              <caret line="137" column="30" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/venv/pipe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/venv/sniffer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/venv/connection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wam_spark_bot/bot.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/venv/sniffer.py" />
+        <option value="$PROJECT_DIR$/client/venv/pipe.py" />
+        <option value="$PROJECT_DIR$/client/venv/connection.py" />
+        <option value="$PROJECT_DIR$/API/api.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wam_spark_bot/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/client/venv/node_modules/@bitclave/base-client-js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/aes/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/base-x/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bindings/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bip66/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/bs58/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/buffer-compare/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/elliptic/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/elliptic/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/node_modules/bitcore-lib/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-ecies/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-lib/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-lib/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/bs58/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/buffer-compare/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/elliptic/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/elliptic/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/node_modules/bitcore-lib/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-message/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bitcore-mnemonic/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/bs58/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/buffer-compare/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/crypto-js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/drbg.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/eth-sig-util/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/ethereumjs-abi/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/ethereumjs-util/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/ethjs-util/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/hash.js/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/is-hex-prefixed/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/keccak/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/keccak/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/rlp/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/secp256k1/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/strip-hex-prefix/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/symbol-observable/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/unorm/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/client/venv/node_modules/xmlhttprequest/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/common-evented/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/common-timers/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/common/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/http-core/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/internal-plugin-feature/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/internal-plugin-locus/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/internal-plugin-mercury/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/internal-plugin-mercury/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/internal-plugin-metrics/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/internal-plugin-wdm/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/media-engine-webrtc/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-authorization-browser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-authorization-node/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-authorization/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-logger/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-memberships/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-messages/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-people/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-phone/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-rooms/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-team-memberships/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-teams/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/plugin-webhooks/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/spark-core/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@ciscospark/storage-adapter-local-storage/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@mrmlnc/readdir-enhanced/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@nodelib/fs.stat/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/aspromise/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/base64/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/codegen/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/eventemitter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/fetch/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/float/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/inquire/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/path/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/pool/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@protobufjs/utf8/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/async/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/caseless/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/connect/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/csv-stringify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/events/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/express-serve-static-core/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/express/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/extend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/file-type/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/form-data/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/jsonwebtoken/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/long/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/mime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/request/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@types/url-join/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@xmpp/jid/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@xmpp/streamparser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/@xmpp/xml/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/acorn-es7-plugin/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/acorn-es7-plugin/test/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/agent-base/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ampersand-class-extend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ampersand-collection-lodash-mixin/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ampersand-collection/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ampersand-events/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ampersand-state/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ampersand-version/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/apiai/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/argv-tools/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-back/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-filter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-next/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ascli/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/babel-polyfill/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/babel-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/back/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/backoff/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/base64url/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botbuilder/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botbuilder/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botbuilder/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-middleware-dialogflow/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-middleware-dialogflow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-middleware-watson/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-middleware-watson/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-studio-metrics/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-studio-sdk/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit-studio-sdk/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/botkit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/bowser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/braces/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/browser-request/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/buffer-equal-constant-time/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/bytebuffer/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/bytebuffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/call-me-maybe/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/call-signature/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/charenc/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/chrono-node/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ciscospark/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/cli-width/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/colour/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/command-line-args/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/core-decorators/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/crypt/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/csv-stringify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/deepmerge/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/deprecate/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/detectrtc/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dialogflow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/diff-match-patch/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dir-glob/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dir-glob/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dir-glob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dom-walk/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/dotenv/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/duplexify/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/duplexify/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/duplexify/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/eastasianwidth/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ecdsa-sig-formatter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/email-addresses/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/empower-core/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/empower/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/envify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/es6-promisify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/espurify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/exit-hook/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/expand-brackets/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/eyes/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fast-glob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fill-range/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/find-replace/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/find-root/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/for-each/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/gcp-metadata/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/gcp-metadata/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/glob-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/global/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-auth-library/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-auth-library/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-auto-auth/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-gax/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-gax/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-gax/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-gax/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-gax/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-p12-pem/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-p12-pem/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-proto-files/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-proto-files/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/google-proto-files/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/protobufjs/examples/protoify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/protobufjs/examples/websocket/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/protobufjs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/grpc/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/gtoken/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/gtoken/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/gtoken/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/gtoken/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/hasha/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/https-proxy-agent/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/https-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ignore/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/in-publish/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/in-publish/test/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/inquirer/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/inquirer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-function/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-stream-ended/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/isemail/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jfs/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jfs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/joi/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jsonwebtoken/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jwa/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/jws/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/key-tree-store/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/localtunnel/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/localtunnel/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash-decorators/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.camelcase/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.includes/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.isboolean/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.isinteger/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.isnumber/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.isplainobject/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.isstring/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.merge/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.once/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash.union/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/log-update/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ltx/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/md5/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/merge2/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/min-document/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mustache/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-env-file/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-localstorage/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-xmpp-client/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-xmpp-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-xmpp-client/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-xmpp-core/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/node-xmpp-tls-connect/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/openurl/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/options/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/optjs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/parse-headers/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/pop-iterate/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-context-formatter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-context-reducer-ast/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-context-traversal/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-formatter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-renderer-assertion/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-renderer-base/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-renderer-comparison/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-renderer-diagram/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-renderer-file/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert-util-string-width/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/power-assert/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/precond/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/cli/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/protobufjs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/qbox/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/readline2/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/reconnect-core/node_modules/backoff/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/reconnect-core/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/request/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/request/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/request/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/requestretry/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/retry-axios/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/rootpath/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/rsa-pem-from-mod-exp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/rtcpeerconnection-shim/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/run-async/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/rx-lite/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/scmp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/sdp-transform/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/sdp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/set-value/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/simple-xmpp/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/stringifier/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/test-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/topo/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/trim/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/twilio/node_modules/jsonwebtoken/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/twilio/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/twilio/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/twilio/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/type-name/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/typedarray-to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/typical/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/union-value/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/universal-deep-strict-equal/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/unset-value/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/url-join/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/urlsafe-base64/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/vcap_services/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/vorpal/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/vorpal/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ware/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/watson-developer-cloud/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/weak-map/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/webrtc-adapter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/websocket/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/when/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/wordfilter/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/wrap-fn/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/wrap-fn/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/xmlbuilder/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/yaeti/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/wam_spark_bot/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="768" />
+    <option name="y" value="-1200" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webex-chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webex-chatbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webex-chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webex-chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webex-chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webex-chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webex-chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webex-chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webex-chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webex-chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="wam_spark_bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5396e99d-b987-4e11-84bf-f5107a054c44" name="Default Changelist" comment="" />
+      <created>1538584588545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538584588545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="768" y="-1200" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wam_spark_bot/bot.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/venv/sniffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/venv/pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/venv/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1867">
+          <caret line="137" column="30" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,7 +2,7 @@ from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
 import requests
 import json
-import os
+import time
 
 app = Flask(__name__)
 api = Api(app)
@@ -78,7 +78,7 @@ class AlertList(Resource):
             r = requests.post(url, data=json.dumps(payload), headers=headers)
 
             print(r.status_code, r.reason)
-
+            time.sleep(200000)
 
 
             #======================================LEVEL 2================================
@@ -106,7 +106,7 @@ class AlertList(Resource):
 
 
             print(r.status_code, r.reason)
-            print(r1.status_code, r1.reason)
+            time.sleep(200000)
 
             return("===================================================================================================================================")
 
@@ -135,6 +135,7 @@ class AlertList(Resource):
             r = requests.post(url, data=json.dumps(payload), headers=headers)
 
             print(r.status_code, r.reason)
+            time.sleep(200000)
 
 
 

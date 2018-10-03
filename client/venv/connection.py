@@ -14,6 +14,6 @@ import http.client
 
 start_time = time.time()
 
-send(IP(dst="13.58.203.174")/ICMP()/"from scapy packet", count=10000, inter=0.001)
+send(IP(dst="18.191.194.44")/ICMP()/"from scapy packet", count=10000, inter=0.1)
 
 print (time.time() - start_time, "seconds")
