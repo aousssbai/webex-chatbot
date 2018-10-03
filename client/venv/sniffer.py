@@ -37,6 +37,7 @@ while(True):
         #in this case i just need to send a message to the chat and let the upscaling happen automatically (send a message privately to the bot
 
         os.system('curl http://44225179.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=1" -d "callerAddress=someIPPPPPPP" POST -v')
+        time.sleep(20000)
 
 
 
@@ -48,6 +49,7 @@ while(True):
 
         #in this case, i need to send a message privately to the admin and let them know about the upscaling and
         os.system('curl http://44225179.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=2" -d "callerAddress=someIPPPPPPP" POST -v')
+        time.sleep(20000)
 
 
     # ====alert level 3=======
