@@ -323,10 +323,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/venv/sniffer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="-49">
               <caret line="15" column="3" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
@@ -344,7 +344,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/venv/connection.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -1315,13 +1315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/venv/sniffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/venv/connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1329,6 +1322,13 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/venv/sniffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
