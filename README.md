@@ -71,6 +71,15 @@ At this point, the system will monitor the traffic from the VM and send alert me
 
 All the connections with Webexteams have been set up so no further action is required for this part. The chatbot has its own [Readme](wam_spark_bot/README.md) if you want more insight into how the NLP works and its implementation in the [bot script](wam_spark_bot/bot.js)
 
+Before running the project, make sure you have the following python libraries/dependencies installed: 
+
+1) [Flask](http://flask.pocoo.org/docs/1.0/installation/) on which runs the API
+2) [scapy](https://scapy.readthedocs.io/en/latest/installation.html#installing-scapy-v2-x), which is used to generate the load
+
+if you encounter any error due to a missing library, a simple `pip install <name of the missing library>` should solve the issue
+
+
+
 Once all this is done, you need to run those 4 programs concurrently: 
 
 
