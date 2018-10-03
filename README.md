@@ -64,13 +64,26 @@ At this point, the system will monitor the traffic from the VM and send alert me
 
 
 
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/botngrok.png)
+
 
 
 
 All the connections with Webexteams have been set up so no further action is required for this part. 
 
+Once all this is done, you need to run those 4 programs concurrently: 
 
 
+
+`pyhton api.py` to run the API
+
+`python pipe.py` to create the pipe between your local machine and the VM, and run the monitoring script remotely
+
+`python connection.py` to trigger the load generator
+
+`node bot.js` to connect the bot logic to the webex teams bot
+
+An this is it !
 
 
 
