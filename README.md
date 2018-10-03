@@ -19,7 +19,7 @@ password: Karlcfkh97*
 When you are connected, you need to turn the instance on. 
 
 
-![picture](https://raw.github.com/aousssbai/webex-chatbot/master/start:stopvm.png)
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/start:stopvm.png)
 
 
 
@@ -27,11 +27,17 @@ When you are connected, you need to turn the instance on.
 You will then have access to the public IPV4 address of the VM. (this IP address is re-generated everytime the instance is turned off)
 
 
-![picture](https://raw.github.com/aousssbai/webex-chatbot/master/publicIP.png)
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/publicIP.png)
 
 
 
-Now that the instance is up and running, you can input the VM IP address in the [load generator](client/venv/connection.py) and in the [pipe script](client/venv/pipe.py)
+Now that the instance is up and running, you can input the VM IP address in the [load generator](client/venv/connection.py) and in the [pipe script](client/venv/pipe.py) as follows: 
+
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/vmIPconn.png)
+
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/vmIPpipe.png)
+
+
 
 The next component that we need to deal with is the API. It is built with Flask and by default running on localhost on port 5000. To allow the monitoring script to make API calls and send alerts, we need to expose this port. So we use a temporary [Ngrok](https://ngrok.com/download) link (expires every 7hrs).
 
@@ -39,16 +45,16 @@ The next component that we need to deal with is the API. It is built with Flask 
 
 
 
-![picture](https://raw.github.com/aousssbai/webex-chatbot/master/ngrok.png)
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/ngrok.png)
 
 
 
 
-This link needs to be input in the [monitoring script](client/venv/sniffer.py).
+This link needs to be input in the [monitoring script](client/venv/sniffer.py)
 
 
 
-![picture](https://raw.github.com/aousssbai/webex-chatbot/master/sniffLink.png)
+![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/sniffLink.png)
 
 
 
