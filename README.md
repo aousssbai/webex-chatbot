@@ -37,7 +37,7 @@ Now that the instance is up and running, you can input the VM IP address in the 
 
 ![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/vmIPpipe.png)
 
-
+IMPORTANT NOTE: the VM is running with a free Tier account which allows 750 hours of run time. Configuring the VM being a very long process (installing python, lots of libraries...), please remember to stop the VM when you are not using it anymore to make sure the account doesnt get shut down by amazon before the important demos 
 
 The next component that we need to deal with is the API. It is built with Flask and by default running on localhost on port 5000. To allow the monitoring script to make API calls and send alerts, we need to expose this port. So we use a temporary [Ngrok](https://ngrok.com/download) link (expires every 7hrs).
 
@@ -70,6 +70,8 @@ At this point, the system will monitor the traffic from the VM and send alert me
 
 
 All the connections with Webexteams have been set up so no further action is required for this part. The chatbot has its own [Readme](wam_spark_bot/README.md) if you want more insight into how the NLP works and its implementation in the [bot script](wam_spark_bot/bot.js)
+
+
 
 Before running the project, make sure you have the following python libraries/dependencies installed: 
 
