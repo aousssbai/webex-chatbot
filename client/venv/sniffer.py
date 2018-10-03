@@ -43,7 +43,7 @@ while(True):
 
         #in this case i just need to send a message to the chat and let the upscaling happen automatically (send a message privately to the bot
 
-        os.system('curl http://f5d26e61.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=1" -d "callerAddress=someIPPPPPPP" POST -v')
+        os.system('curl http://44225179.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=1" -d "callerAddress=someIPPPPPPP" POST -v')
 
 
 
@@ -54,7 +54,7 @@ while(True):
     if(500<=average<1000):
 
         #in this case, i need to send a message privately to the admin and let them know about the upscaling and
-        os.system('curl http://f5d26e61.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=2" -d "callerAddress=someIPPPPPPP" POST -v')
+        os.system('curl http://44225179.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=2" -d "callerAddress=someIPPPPPPP" POST -v')
 
 
     # ====alert level 3=======
@@ -63,7 +63,7 @@ while(True):
         print("level3")
         #in this case, ask for admin permission
         
-        os.system('curl http://f5d26e61.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=3" -d "callerAddress=someIPPPPPPP" POST -v')
+        os.system('curl http://44225179.ngrok.io/alerts -d "callerID=12345" -d "token=token" -d "reason=excessive connections" -d "level=3" -d "callerAddress=someIPPPPPPP" POST -v')
 
         time.sleep(20000)
 
