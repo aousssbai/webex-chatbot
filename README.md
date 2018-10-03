@@ -69,7 +69,7 @@ At this point, the system will monitor the traffic from the VM and send alert me
 
 
 
-All the connections with Webexteams have been set up so no further action is required for this part. The chatbot has its own [Readme](wam_spark_bot/README.md) if you want more insight into how the NLP works and its implementation in the [bot script](wam_spark_bot/bot.js)
+All the connections with Webexteams have been set up so no further action is required for this part. The chatbot has its own [Readme](wam_spark_bot/readme.md) if you want more insight into how the NLP works and its implementation in the [bot script](wam_spark_bot/bot.js)
 
 
 
