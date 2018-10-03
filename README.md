@@ -69,7 +69,7 @@ At this point, the system will monitor the traffic from the VM and send alert me
 
 
 
-All the connections with Webexteams have been set up so no further action is required for this part. 
+All the connections with Webexteams have been set up so no further action is required for this part. The chatbot has its own [Readme](wam_spark_bot/README.md) if you want more insight into how the NLP works and its implementation in the [bot script](wam_spark_bot/bot.js)
 
 Once all this is done, you need to run those 4 programs concurrently: 
 
@@ -83,7 +83,7 @@ Once all this is done, you need to run those 4 programs concurrently:
 
 `node bot.js` to connect the bot logic to the webex teams bot
 
-An this is it !
+And this is it !
 
 
 
