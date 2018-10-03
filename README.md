@@ -20,7 +20,7 @@ password: Karlcfkh97*
 ```
 
 
-When you are connected, you need to turn the instance on. 
+When you are connected, navigate to the EC2 dashboard and turn the instance on. 
 
 
 ![picture](https://raw.github.com/aousssbai/webex-chatbot/master/pictures/start:stopvm.png)
