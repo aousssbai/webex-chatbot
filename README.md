@@ -14,10 +14,7 @@ There are multiple parts that need to be run concurrently in this system:
 
 ## AWS VM
 Firstly, you need to connect to the aws instance unsing these credentials: 
-```
-username: aouss.sbai.15@ucl.ac.uk 
-password: Karlcfkh97*
-```
+`will put them ont he cisco repo`
 
 
 When you are connected, navigate to the EC2 dashboard and turn the instance on. 
